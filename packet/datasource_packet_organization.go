@@ -2,7 +2,7 @@ package packet
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"path/filepath"
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
